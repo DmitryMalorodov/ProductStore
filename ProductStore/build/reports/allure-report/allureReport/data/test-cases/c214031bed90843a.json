@@ -1,0 +1,94 @@
+{
+  "uid" : "c214031bed90843a",
+  "name" : "checkAddProductToCart",
+  "fullName" : "tests.cart.CartTest.checkAddProductToCart",
+  "historyId" : "3f43273ad59b085a2f5a0a527e78a286",
+  "time" : {
+    "start" : 1675525822857,
+    "stop" : 1675525827725,
+    "duration" : 4868
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ {
+    "name" : "clearCookiesAndLocalStorage",
+    "time" : {
+      "start" : 1675525827799,
+      "stop" : 1675525827820,
+      "duration" : 21
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "closeBrowser",
+    "time" : {
+      "start" : 1675525827847,
+      "stop" : 1675525828550,
+      "duration" : 703
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.cart.CartTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.cart.CartTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkAddProductToCart"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "ProductStore"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.cart.CartTest"
+  }, {
+    "name" : "host",
+    "value" : "win-usb"
+  }, {
+    "name" : "thread",
+    "value" : "10020@win-usb.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c214031bed90843a.json",
+  "parameterValues" : [ ]
+}

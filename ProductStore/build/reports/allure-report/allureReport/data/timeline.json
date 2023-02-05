@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "win-usb",
+    "children" : [ {
+      "name" : "10020@win-usb.main(1)",
+      "children" : [ {
+        "name" : "checkAddProductToCart",
+        "uid" : "c214031bed90843a",
+        "parentUid" : "36f36d85da35b6bf0d7a79ba2359e3fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675525822857,
+          "stop" : 1675525827725,
+          "duration" : 4868
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "36f36d85da35b6bf0d7a79ba2359e3fe"
+    } ],
+    "uid" : "f26d552ddd9064ceba48929da3d6886e"
+  } ]
+}

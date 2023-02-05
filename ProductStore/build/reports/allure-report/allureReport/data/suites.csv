@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Feb 04 18:50:22 MSK 2023","Sat Feb 04 18:50:27 MSK 2023","4868","Default Suite","ProductStore","tests.cart.CartTest","tests.cart.CartTest","checkAddProductToCart","checkAddProductToCart",""

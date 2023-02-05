@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c214031bed90843a",
+  "name" : "checkAddProductToCart",
+  "time" : {
+    "start" : 1675525822857,
+    "stop" : 1675525827725,
+    "duration" : 4868
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

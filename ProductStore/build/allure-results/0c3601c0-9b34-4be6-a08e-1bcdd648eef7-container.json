@@ -1,0 +1,1 @@
+{"uuid":"0c3601c0-9b34-4be6-a08e-1bcdd648eef7","name":"ProductStore","children":["62fc643d-097d-4c8b-9d17-f4c8862a9bf3"],"befores":[],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675528985265,"stop":1675528985283}],"links":[],"start":1675528979979,"stop":1675528985285}

@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "ProductStore",
+      "children" : [ {
+        "name" : "tests.cart.CartTest",
+        "children" : [ {
+          "name" : "checkAddProductToCart",
+          "uid" : "c214031bed90843a",
+          "parentUid" : "962b681851b5d098c79cc443b589f9e6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1675525822857,
+            "stop" : 1675525827725,
+            "duration" : 4868
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "962b681851b5d098c79cc443b589f9e6"
+      } ],
+      "uid" : "e128ce4ac8355686bf4ec88cca3b05c3"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests.cart.CartTest",
+    "children" : [ {
+      "name" : "checkAddProductToCart",
+      "uid" : "c214031bed90843a",
+      "parentUid" : "92591adab0c639a411c9f84456ae7bce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1675525822857,
+        "stop" : 1675525827725,
+        "duration" : 4868
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.cart.CartTest"
+  } ]
+}
